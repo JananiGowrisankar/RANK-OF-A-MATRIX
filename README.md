@@ -25,7 +25,8 @@ print(sol)
 ```
 ## Output:
 
-<img width="819" height="119" alt="Screenshot 2025-08-19 at 21 00 58" src="https://github.com/user-attachments/assets/2edf7650-40a0-45c9-9707-9b040085b817" />
+<img width="1235" height="735" alt="image" src="https://github.com/user-attachments/assets/a9585a60-720c-40ca-a74b-5e8414da9bca" />
+
 
 
 ## Result:
